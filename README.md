@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RafaelSS96
 - 👀 I’m interested in data security, coding and app development
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on some app deselopment to get a bigger domain over
+- 💞️ I'm looking to collaborate on some application development to learn new ways to code.
 - 📫 You can reach me by the adress rafaelssilva1996@gmail.com
 
 <!---
